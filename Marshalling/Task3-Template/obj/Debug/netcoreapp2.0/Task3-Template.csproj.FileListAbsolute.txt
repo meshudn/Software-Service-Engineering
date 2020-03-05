@@ -1,0 +1,4 @@
+C:\Users\siev\Nextcloud\SSE_Tutorial\02 - Middleware\Task3-Template\obj\Debug\netcoreapp2.0\Task3-Template.csprojAssemblyReference.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\02 - Middleware\Task3-Template\obj\Debug\netcoreapp2.0\Task3-Template.csproj.CoreCompileInputs.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\02 - Middleware\Task3-Template\obj\Debug\netcoreapp2.0\Task3-Template.AssemblyInfoInputs.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\02 - Middleware\Task3-Template\obj\Debug\netcoreapp2.0\Task3-Template.AssemblyInfo.cs
