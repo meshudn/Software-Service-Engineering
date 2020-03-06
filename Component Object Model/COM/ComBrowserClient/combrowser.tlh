@@ -1,0 +1,65 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 12.00.21005.1 (63c23947).
+//
+// d:\my documents\education\ws14-15\combrowserclient\combrowserclient\debug\combrowser.tlh
+//
+// C++ source equivalent of Win32 type library ComBrowser.tlb
+// compiler-generated file created 11/07/14 at 14:27:11 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace ComBrowser {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("cb6e3e85-3c44-4c30-8ad4-5c2c802270dc"))
+/* LIBID */ __ComBrowser;
+struct __declspec(uuid("79c42849-7c99-4290-bd70-40f7e9608647"))
+/* dual interface */ IBrower;
+struct /* coclass */ Browser;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IBrower, __uuidof(IBrower));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("79c42849-7c99-4290-bd70-40f7e9608647"))
+IBrower : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall HttpGet (
+        /*[in]*/ BSTR url,
+        /*[out,retval]*/ BSTR * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("73d9f80e-6bbe-4ac9-aab2-99f03ced9fa1"))
+Browser;
+    // interface _Object
+    // [ default ] interface IBrower
+
+//
+// Named GUID constants initializations
+//
+
+extern "C" const GUID __declspec(selectany) LIBID_ComBrowser =
+    {0xcb6e3e85,0x3c44,0x4c30,{0x8a,0xd4,0x5c,0x2c,0x80,0x22,0x70,0xdc}};
+extern "C" const GUID __declspec(selectany) IID_IBrower =
+    {0x79c42849,0x7c99,0x4290,{0xbd,0x70,0x40,0xf7,0xe9,0x60,0x86,0x47}};
+extern "C" const GUID __declspec(selectany) CLSID_Browser =
+    {0x73d9f80e,0x6bbe,0x4ac9,{0xaa,0xb2,0x99,0xf0,0x3c,0xed,0x9f,0xa1}};
+
+} // namespace ComBrowser
+
+#pragma pack(pop)

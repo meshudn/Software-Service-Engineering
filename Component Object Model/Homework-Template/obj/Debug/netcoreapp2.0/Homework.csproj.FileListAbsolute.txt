@@ -1,0 +1,10 @@
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\bin\Debug\netcoreapp2.0\Homework.deps.json
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\bin\Debug\netcoreapp2.0\Homework.runtimeconfig.json
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\bin\Debug\netcoreapp2.0\Homework.runtimeconfig.dev.json
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\bin\Debug\netcoreapp2.0\Homework.dll
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\bin\Debug\netcoreapp2.0\Homework.pdb
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\obj\Debug\netcoreapp2.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\obj\Debug\netcoreapp2.0\Homework.AssemblyInfoInputs.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\obj\Debug\netcoreapp2.0\Homework.AssemblyInfo.cs
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\obj\Debug\netcoreapp2.0\Homework.dll
+C:\Users\siev\Nextcloud\SSE_Tutorial\03 - URL & HTTP\Assignment2-Template\obj\Debug\netcoreapp2.0\Homework.pdb

@@ -1,0 +1,14 @@
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\Task1.deps.json
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\Task1.runtimeconfig.json
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\Task1.runtimeconfig.dev.json
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\Task1.dll
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\bin\Debug\netcoreapp2.0\Task1.pdb
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\obj\Debug\netcoreapp2.0\Task1.csprojAssemblyReference.cache
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\obj\Debug\netcoreapp2.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\obj\Debug\netcoreapp2.0\Task1.AssemblyInfoInputs.cache
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\obj\Debug\netcoreapp2.0\Task1.AssemblyInfo.cs
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\obj\Debug\netcoreapp2.0\Task1.dll
+C:\Users\siev\Nextcloud\EDU\Modules\VSR-M1-SSE(PVS).WS\_TUTORIAL\03 - URL & HTTP\Task1-Template\obj\Debug\netcoreapp2.0\Task1.pdb
