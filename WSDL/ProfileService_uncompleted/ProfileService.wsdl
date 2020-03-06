@@ -1,0 +1,70 @@
+<definitions
+  xmlns:http="http://schemas.xmlsoap.org/wsdl/http/"
+  xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+  xmlns:s="http://www.w3.org/2001/XMLSchema"
+  xmlns:vsr="urn:vsr"
+  xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+  xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl"
+  targetNamespace="urn:vsr"
+  xmlns="http://schemas.xmlsoap.org/wsdl/"
+  xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/"
+>
+
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="urn:vsr">
+      <!--
+      TODO: Define parts. Example:
+      <s:element name="Register">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Username" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      -->
+      
+    </s:schema>
+  </types>
+
+  <!--
+  TODO: Define messages and their parts. Example:
+  <message name="RegisterIn">
+    <part name="parameters" element="vsr:Register" />
+  </message>
+  -->
+
+  <!--
+  TODO: Define interface. Example:
+  <portType name="IRegistrationManager">
+    <operation name="Register">
+      <input  message="vsr:RegisterIn" />
+      ...
+    </operation>
+  </portType>
+  -->
+
+  <!--
+  TODO: Define binding:
+  <binding ...>
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+
+    <operation name="Register">
+      <soap:operation soapAction="urn:vsr/Register" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      ...
+    </operation>
+
+  </binding>
+  -->
+
+  <!--
+  TODO: Define service:
+  <service ...>
+  	<port ...>
+    	...
+  	</port>
+  </service>
+  -->
+</definitions>
