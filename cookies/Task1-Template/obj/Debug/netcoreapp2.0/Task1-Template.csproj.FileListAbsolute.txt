@@ -1,0 +1,11 @@
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\bin\Debug\netcoreapp2.0\Task1-Template.deps.json
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\bin\Debug\netcoreapp2.0\Task1-Template.runtimeconfig.json
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\bin\Debug\netcoreapp2.0\Task1-Template.runtimeconfig.dev.json
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\bin\Debug\netcoreapp2.0\Task1-Template.dll
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\bin\Debug\netcoreapp2.0\Task1-Template.pdb
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\obj\Debug\netcoreapp2.0\Task1-Template.csprojAssemblyReference.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\obj\Debug\netcoreapp2.0\Task1-Template.csproj.CoreCompileInputs.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\obj\Debug\netcoreapp2.0\Task1-Template.AssemblyInfoInputs.cache
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\obj\Debug\netcoreapp2.0\Task1-Template.AssemblyInfo.cs
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\obj\Debug\netcoreapp2.0\Task1-Template.dll
+C:\Users\siev\Nextcloud\SSE_Tutorial\04 - Cookies SOAP MEP\Task1-Template\obj\Debug\netcoreapp2.0\Task1-Template.pdb

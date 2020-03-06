@@ -1,0 +1,13 @@
+D:\My Documents\Education\WS12-13\sse\06\Exercise1\Uncompleted\HttpLib\bin\Debug\HttpLib.dll
+D:\My Documents\Education\WS12-13\sse\06\Exercise1\Uncompleted\HttpLib\bin\Debug\HttpLib.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise1\Uncompleted\HttpLib\obj\x86\Debug\HttpLib.dll
+D:\My Documents\Education\WS12-13\sse\06\Exercise1\Uncompleted\HttpLib\obj\x86\Debug\HttpLib.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\HttpLib\bin\Debug\HttpLib.dll
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\HttpLib\bin\Debug\HttpLib.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\HttpLib\obj\x86\Debug\HttpLib.dll
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\HttpLib\obj\x86\Debug\HttpLib.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\HttpLib\bin\Debug\HttpLib.dll
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\HttpLib\bin\Debug\HttpLib.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\HttpLib\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\HttpLib\obj\x86\Debug\HttpLib.dll
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\HttpLib\obj\x86\Debug\HttpLib.pdb

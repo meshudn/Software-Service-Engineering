@@ -1,0 +1,23 @@
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\Client1.exe
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\Client1.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.exe
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\HttpLib.dll
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\HttpLib.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.csprojResolveAssemblyReference.cache
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\Client1.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\Client1.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\HttpLib.dll
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\bin\Debug\HttpLib.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Client1\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\bin\Debug\Client1.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\bin\Debug\Client1.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\bin\Debug\HttpLib.dll
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\bin\Debug\HttpLib.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Client1\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies, SOAP, MEP\material\03StockPriceUpdate_uncompleted\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.exe
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies, SOAP, MEP\material\03StockPriceUpdate_uncompleted\StockPriceUpdate\Client1\Client1\obj\x86\Debug\Client1.pdb

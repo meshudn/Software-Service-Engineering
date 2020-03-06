@@ -1,0 +1,23 @@
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\bin\Debug\Broker.exe
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\bin\Debug\Broker.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\bin\Debug\HttpLib.dll
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\bin\Debug\HttpLib.pdb
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\obj\x86\Debug\Broker.csprojResolveAssemblyReference.cache
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\obj\x86\Debug\Broker.exe
+D:\My Documents\Education\WS12-13\sse\06\Exercise2\Completed\Broker\obj\x86\Debug\Broker.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\obj\x86\Debug\Broker.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\obj\x86\Debug\Broker.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\bin\Debug\Broker.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\bin\Debug\Broker.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\bin\Debug\HttpLib.dll
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\bin\Debug\HttpLib.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Completed\StockPriceUpdate\Broker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\obj\x86\Debug\Broker.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\obj\x86\Debug\Broker.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\bin\Debug\Broker.exe
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\bin\Debug\Broker.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\bin\Debug\HttpLib.dll
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\bin\Debug\HttpLib.pdb
+D:\My Documents\My Projects\Uni\C#\SSE\06\Exercise2\Uncompleted\StockPriceUpdate\Broker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies, SOAP, MEP\material\03StockPriceUpdate_uncompleted\StockPriceUpdate\Broker\obj\x86\Debug\Broker.exe
+C:\Users\wifab\Dropbox\Arbeit\WIP-VSR-3-S-EDU\VSR-M1-SSE(PVS).WS\_TUTORIAL\06 - Cookies, SOAP, MEP\material\03StockPriceUpdate_uncompleted\StockPriceUpdate\Broker\obj\x86\Debug\Broker.pdb
