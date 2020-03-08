@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bookmarks>
+    <Bookmark>
+      <Id>1</Id>
+      <Url>http://www.google.de</Url>
+      <User>http://localhost:5000/users/2</User>
+      <Category>http://localhost:5000/categories/1</Category>
+    </Bookmark>
+    <Bookmark>
+      <Id>2</Id>
+      <Url>http://www.flickr.de</Url>
+      <User>http://localhost:5000/users/1</User>
+      <Category>http://localhost:5000/categories/2</Category>
+    </Bookmark>
+    <Bookmark>
+      <Id>3</Id>
+      <Url>http://vsr.informatik.tu-chemnitz.de</Url>
+      <User>http://localhost:5000/users/2</User>
+      <Category>http://localhost:5000/categories/2</Category>
+    </Bookmark>
+    <Bookmark>
+      <Id>6</Id>
+      <Url>www.altavista.com</Url>
+      <User>http://localhost:5000/users/1</User>
+      <Category>http://localhost:5000/categories/1</Category>
+    </Bookmark>
+    <Bookmark>
+      <Id>7</Id>
+      <Url>www.youtube.com</Url>
+      <User>http://localhost:5000/users/2</User>
+      <Category>http://localhost:5000/categories/1</Category>
+    </Bookmark>
+  </Bookmarks>
+  <Users>
+    <User>
+      <Id>1</Id>
+      <Name>Max Mustermann</Name>
+    </User>
+    <User>
+      <Id>2</Id>
+      <Name>John Smith</Name>
+    </User>
+  </Users>
+</Database>
