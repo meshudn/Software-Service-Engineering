@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <Books>
+        <Book>
+            <Id>1</Id>
+            <Title>Lord of the Rings</Title>
+            <Author>Tolkien</Author>
+            <Genre>Fantasy</Genre>
+        </Book>
+        <Book>
+            <Id>2</Id>
+            <Title>The Hobbit</Title>
+            <Author>Tolkien</Author>
+            <Genre>Fantasy</Genre>
+        </Book>
+        <Book>
+            <Id>3</Id>
+            <Title>Mastering the Unpredictable: How Adaptive Case Management Will Revolutionize the Way That Knowledge Workers Get Things Done</Title>
+            <Author>Swenson</Author>
+            <Genre>Business</Genre>
+        </Book>
+        <Book>
+            <Id>4</Id>
+            <Title>CityTrip Buenos Aires</Title>
+            <Author>Christen</Author>
+            <Genre>Travel</Genre>
+        </Book>
+        <Book>
+            <Id>5</Id>
+            <Title>Radleys</Title>
+            <Author>Haig</Author>
+            <Genre>Thriller</Genre>
+        </Book>
+        <Book>
+            <Id>6</Id>
+            <Title>Darkness Visible</Title>
+            <Author>Golding</Author>
+            <Genre>Fantasy</Genre>
+        </Book>
+        <Book>
+            <Id>7</Id>
+            <Title>Der gefrorene Rabbi</Title>
+            <Author>Stern</Author>
+            <Genre>Novel</Genre>
+        </Book>
+        <Book>
+            <Id>8</Id>
+            <Title>Nineteen Eighty-Four</Title>
+            <Author>Orwell</Author>
+            <Genre>Fantasy</Genre>
+        </Book>
+        <Book>
+            <Id>9</Id>
+            <Title>Das Fest des Ziegenbocks</Title>
+            <Author>Vargas-Llosa</Author>
+            <Genre>Novel</Genre>
+        </Book>
+        <Book>
+            <Id>10</Id>
+            <Title>The World Is Flat 3.0: A Brief History of the Twenty-first Century</Title>
+            <Author>Friedman</Author>
+            <Genre>Science</Genre>
+        </Book>
+        <Book>
+            <Id>11</Id>
+            <Title>La ciudad de los prodigios</Title>
+            <Author>Mendoza</Author>
+            <Genre>Spanish</Genre>
+        </Book>
+        <Book>
+            <Id>42</Id>
+            <Title>The Hitchhiker's GuIde to the Galaxy</Title>
+            <Author>Adams</Author>
+            <Genre>Science Fiction</Genre>
+        </Book>
+    </Books>
+    <Bookings>
+        <Booking>
+            <Id>2</Id>
+            <Username>cole</Username>
+            <Duration>14</Duration>
+            <BookId>2</BookId>
+        </Booking>
+        <Booking>
+            <Id>3</Id>
+            <Username>test</Username>
+            <Duration>1</Duration>
+            <BookId>1</BookId>
+        </Booking>
+        <Booking>
+            <Id>4</Id>
+            <Username>h</Username>
+            <Duration>5</Duration>
+            <BookId>1</BookId>
+        </Booking>
+    </Bookings>
+</Database>
